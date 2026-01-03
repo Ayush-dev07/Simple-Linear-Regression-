@@ -33,5 +33,3 @@ The project focuses on **clarity, mathematical intuition, and practical implemen
 - **Scikit-learn** - Linear Regression model
 
 ---
-
-## 📂 Project Structure
