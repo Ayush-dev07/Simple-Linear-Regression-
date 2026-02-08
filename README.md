@@ -95,7 +95,6 @@ The project focuses on **clarity, mathematical intuition, and practical implemen
 ## 👤 Author
 **Ayush Yadav**  
 Machine Learning Enthusiast | Aspiring AI Engineer
-
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
